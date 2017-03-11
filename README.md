@@ -36,5 +36,7 @@ mixer.start();
 To remove a sound that has been added to mixer:
 mixer.removeLine(line1);
 
+This is still a work in progress and any bug reports or suggestions are welcome!
+
 
 
